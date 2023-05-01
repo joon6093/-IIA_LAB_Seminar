@@ -1,4 +1,4 @@
-# -IIA_LAB_Seminar
+# Intelligent-Image-Analysis_LAB_Seminar
 Seminar_Presentation
 
 <br/>
