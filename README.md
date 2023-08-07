@@ -10,3 +10,4 @@ Seminar_Presentation
 | 03 |2023-03-30|**Linear Regression & String matching Algorithm**| Linear Regression, Gradient descent / Naïve Algorithm, Rabin-Karp Algorithm |
 | 04 |2023-07-06|**GET3D를 활용한 가상 아바타 생성**| 메에인 (MeAIn) : 햅틱과 AI기술을 활용한 가상인터뷰 프로젝트 |
 | 05 |2023-07-19|**Stable-DreamFusion를 활용한 가상 아바타 생성**| 메에인 (MeAIn) : 햅틱과 AI기술을 활용한 가상인터뷰 프로젝트 |
+| 06 |2023-07-19|**GET3D를 활용한 가상 아바타 생성**| 메에인 (MeAIn) : 햅틱과 AI기술을 활용한 가상인터뷰 프로젝트 |
