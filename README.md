@@ -16,3 +16,5 @@ Seminar_Presentation
 | 09 |2023-10-12|**PanoHead & GET3D & 2K2K & SHERF를 활용한 가상 아바타 생성**| 메에인 (MeAIn) : 햅틱과 AI기술을 활용한 가상인터뷰 프로젝트 |
 | 10 |2023-11-08|**GET3D를 활용한 가상 아바타 생성 & Backend 서버 구축**| 메에인 (MeAIn) : 햅틱과 AI기술을 활용한 가상인터뷰 프로젝트 & Online to Offline(O2O) 상점 |
 | 11 |2023-11-29|**Backend 서버 구축**| Online to Offline(O2O) 상점 |
+| 12 |2024-01-10|**Intelligent-Image-Analysis LAB**| 2024년도 계|
+| 13 |2024-01-17|**GET3DHuman을 활용한 가상 아바타 생성 & Backend 서버 구축**| 메에인 (MeAIn) : 햅틱과 AI기술을 활용한 가상인터뷰 프로젝트 & Online to Offline(O2O) 상점 |
