@@ -18,3 +18,7 @@ Seminar_Presentation
 | 11 |2023-11-29|**Backend 서버 구축**| Online to Offline(O2O) 상점 |
 | 12 |2024-01-10|**Intelligent-Image-Analysis LAB**| 2024년도 계획 |
 | 13 |2024-01-17|**GET3DHuman을 활용한 가상 아바타 생성 & Backend 서버 구축**| 메에인 (MeAIn) : 햅틱과 AI기술을 활용한 가상인터뷰 프로젝트 & Online to Offline(O2O) 상점 |
+| 14 |2024-03-07|**Text2Light 활용한 가상 면접장 생성 & Backend 서버 구축**| 메에인 (MeAIn) : 햅틱과 AI기술을 활용한 가상인터뷰 프로젝트 & Online to Offline(O2O) 상점 |
+| 15 |2024-03-21|**Backend 서버 구축**| Online to Offline(O2O) 상점 |
+| 16 |2024-05-16|**Backend 서버 구축**| Github Actions 소개 |
+| 17 |2024-05-20|**Backend 서버 구축**| Jenkins 소개 |
