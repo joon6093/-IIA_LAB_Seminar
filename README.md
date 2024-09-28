@@ -1,7 +1,5 @@
 # Intelligent-Image-Analysis_LAB_Seminar
-Seminar_Presentation
-
-<br/>
+### 📝Seminar Presentation
 
 | No |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Title|Detail|
 |:--:|----------|:---|---|
@@ -22,3 +20,6 @@ Seminar_Presentation
 | 15 |2024-03-21|**Backend 서버 구축**| Online to Offline(O2O) 상점 |
 | 16 |2024-05-16|**Backend 서버 구축**| Github Actions 소개 |
 | 17 |2024-05-20|**Backend 서버 구축**| Jenkins 소개 |
+
+### 🧑‍💻Blog
+- [생성형 인공지능 (Generative AI) 시리즈](https://velog.io/@joon6093/series/%EC%9D%BC%EB%8B%A8%EB%B0%95%EC%A3%A0)
